@@ -8,7 +8,7 @@ RED,D1,LED_SMD:LED_0603_1608Metric,C84263
 SP0503BAHT,D2,Package_TO_SOT_SMD:SOT-143,C3040626
 D_Schottky,D3,Diode_SMD:D_SOD-323,C116158
 MountingHole,"H1, H2, H3, H4",MountingHole:MountingHole_2.2mm_M2,
-USB_B_Micro,J1,Connector_USB:USB_Micro-B_Wuerth_629105150521,C9900016360
+USB_B_Micro,J1,Connector_USB:USB_Micro-B_Molex-105017-0001,C136000
 Conn_01x20_Socket,"J3, J4",Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical,
 2N2219,"Q1, Q2",Package_TO_SOT_SMD:SOT-23,C475630
 10k,"R1, R2, R11, R12, R13",Resistor_SMD:R_0402_1005Metric,C409612
